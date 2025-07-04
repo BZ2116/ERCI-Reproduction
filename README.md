@@ -12,6 +12,7 @@ Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, 
 
 
 ## 输出：
-训练好的模型保存为 erci_td3_highway.zip 和 td3_highway.zip。
-训练曲线保存为 training_curve.png 和 comparison.png。
-结果（奖励和性能提升）保存为 results.npz。
+
+1. 训练好的模型保存为 erci_td3_highway.zip 和 td3_highway.zip。
+2. 训练曲线保存为 training_curve.png 和 comparison.png。
+3. 结果（奖励和性能提升）保存为 results.npz。
